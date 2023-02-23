@@ -4,3 +4,4 @@ Creator: Arbutharaj
 2. Chat Screen code
 3. Last seen code
 4. Attachement (Audio, video, Image) code
+5. Hiding code added
